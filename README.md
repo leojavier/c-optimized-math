@@ -1,7 +1,7 @@
 # Prerequisites
 
 Install the .NET Core SDK. The .NET Core SDK includes the latest release of the .NET Core framework and runtime.
-`https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/install`
+[Download SDK](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/install)
 
 ## Run the app
 
